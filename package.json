@@ -1,6 +1,6 @@
 {
   "name": "onedionys-drag-drop-components",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "One Dionys (Drag Drop Components) - Components that allow users to drag and drop elements in the application.",
   "main": "src/dragAndDrop.js",
   "directories": {
